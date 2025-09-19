@@ -1,8 +1,8 @@
 # CMPUT 301 : Lab 3 Participation Exercise
 
 ## Student Details
-Full Name: <Jason Chang>
-CCID: <zechen6>
+- **Full Name:** `<Jason Chang>`
+- **CCID:** `<zechen6>`
 
 ## References and Resources
 
